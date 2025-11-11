@@ -3,7 +3,8 @@ A comprehensive dataset of electoral results from Aruba, Curaçao, and Sint Maar
 
 
 # About this repository
-This repository contains electoral data from the three Caribbean Autonomous States within the Kingdom of the Netherlands: Aruba, Curaçao, and Sint Maarten. The data spans multiple election cycles and provides a foundation for understanding political dynamics, voting patterns, and democratic processes in these Small Island Developing States (SIDS).
+This repository contains electoral data from the three Caribbean autonomous states within the Kingdom of the Netherlands: Curaçao, Aruba, and Sint Maarten. The data spans multiple election cycles and provides a foundation for understanding political dynamics, voting patterns, and democratic processes in these Small Island Developing States (SIDS).
+
 Maintained by: University of Aruba
 Purpose: Educational resource for data science, political science, and Caribbean studies
 Last updated: November 2025
@@ -15,7 +16,7 @@ Aruba: 12 elections (1985-2024)
 Curaçao: 6 elections (2010-2025)
 Sint Maarten: 6 elections (2010-2024)
 
-Each record contains:
+## Each record contains:
 
 year: Election year
 country: Territory name (Aruba, Curaçao, or Sint Maarten)
