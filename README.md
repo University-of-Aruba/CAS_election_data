@@ -80,14 +80,15 @@ This repository includes example scripts that demonstrate common analyses:
 04_comparative_analysis.R - Comparing patterns across territories
 
 These scripts are designed for students learning data science and can be modified for your own research questions.
-Educational use cases
+
+#Educational use cases
 
 This dataset is particularly useful for:
 
-Introduction to data science courses 
+## Introduction to data science courses 
 - Practicing data loading, cleaning, and basic analysis
 
-Data visualization courses 
+## Data visualization courses 
 - Creating meaningful charts about political trends
 Statistical analysis
 - Exploring voting patterns, calculating vote shares, and identifying trends
