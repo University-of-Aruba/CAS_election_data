@@ -81,22 +81,29 @@ This repository includes example scripts that demonstrate common analyses:
 
 These scripts are designed for students learning data science and can be modified for your own research questions.
 Educational use cases
+
 This dataset is particularly useful for:
 
-Introduction to data science courses - Practicing data loading, cleaning, and basic analysis
-Data visualization courses - Creating meaningful charts about political trends
-Statistical analysis - Exploring voting patterns, calculating vote shares, and identifying trends
-Political science research - Understanding party systems and electoral behavior in SIDS
-Caribbean studies - Analyzing democratic processes in the Dutch Caribbean
+Introduction to data science courses 
+- Practicing data loading, cleaning, and basic analysis
+
+Data visualization courses 
+- Creating meaningful charts about political trends
+Statistical analysis
+- Exploring voting patterns, calculating vote shares, and identifying trends
+Political science research
+- Understanding party systems and electoral behavior in SIDS
+Caribbean studies
+- Analyzing democratic processes in the Dutch Caribbean
 
 # Research questions you can explore
 
-How has voter support for major parties changed over time?
-What is the level of party fragmentation in each territory?
-How do electoral systems affect political representation?
-Are there patterns in coalition formation based on election results?
-How does voter turnout compare across the three territories?
-What role do new parties play in disrupting established political systems?
+- How has voter support for major parties changed over time?
+- What is the level of party fragmentation in each territory?
+- How do electoral systems affect political representation?
+- Are there patterns in coalition formation based on election results?
+- How does voter turnout compare across the three territories?
+- What role do new parties play in disrupting established political systems?
 
 # Data limitations
 Users should be aware of the following limitations:
