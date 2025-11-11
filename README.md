@@ -97,8 +97,11 @@ relections %>%
 This repository includes example scripts that demonstrate common analyses:
 
 01_basic_exploration.R - Loading and exploring the data
+
 02_visualization.R - Creating charts and graphs of election results
+
 03_trends_analysis.R - Analyzing voting trends over time
+
 04_comparative_analysis.R - Comparing patterns across territories
 
 These scripts are designed for students learning data science and can be modified for your own research questions.
