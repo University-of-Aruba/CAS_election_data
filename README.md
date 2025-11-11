@@ -32,19 +32,23 @@ csvyear,country,party,votes
 This format makes the data easy to work with using common data analysis tools in R, Python, Excel, or any other software that reads CSV files.
 
 # Data sources
-Electoral data was compiled from official election results published by:
+Electoral data was compiled from Wikipedia articles:
+
+Elections in Aruba
+Elections in Curaçao
+Elections in Sint Maarten
+
+Wikipedia sources this information from official electoral authorities including:
 
 Aruba: Departamento di Asuntonan Electoral (Electoral Affairs Department)
 Curaçao: Kiesraad Curaçao (Electoral Council of Curaçao)
 Sint Maarten: Main Voting Bureau of Sint Maarten
 
-Additional historical data was sourced from:
+Important notes:
 
-Central Bureau of Statistics (CBS) publications for each territory
-Official government gazettes and electoral reports
-Verified news archives for historical elections
-
-Note: This dataset is compiled for educational purposes. For official electoral data, please consult the respective electoral authorities.
+This dataset is compiled for educational purposes from publicly available sources
+Students are encouraged to verify data with official electoral authorities for formal research
+Understanding data provenance is an important part of data literacy
 
 # How to use this data
 ## Loading the data in R
