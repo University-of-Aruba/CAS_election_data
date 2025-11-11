@@ -1,6 +1,8 @@
 # CAS_election_data
 A comprehensive dataset of electoral results from Aruba, Curaçao, and Sint Maarten for research and educational purposes.
 
+![University of Aruba Logo](images/ua-logo.png)
+
 
 # About this repository
 This repository contains electoral data from the three Caribbean autonomous states within the Kingdom of the Netherlands: Curaçao, Aruba, and Sint Maarten. The data spans multiple election cycles and provides a foundation for understanding political dynamics, voting patterns, and democratic processes in these Small Island Developing States (SIDS).
