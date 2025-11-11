@@ -1,7 +1,7 @@
 # CAS_election_data
 A comprehensive dataset of electoral results from Aruba, Curaçao, and Sint Maarten for research and educational purposes.
 
-![University of Aruba Logo](images/ua-logo.png)
+![University of Aruba Logo](ua-logo.png)
 
 
 # About this repository
