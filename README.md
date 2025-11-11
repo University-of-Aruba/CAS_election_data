@@ -54,45 +54,18 @@ Understanding data provenance is an important part of data literacy
 
 # How to use this data
 ## Loading the data in R
-r# Load the data
+Load the data
 elections <- read.csv("dutch_caribbean_elections.csv")
 
-# View the first few rows
+## View the first few rows
 head(elections)
 
-# Check the structure
+## Check the structure
 str(elections)
 
-# Get summary statistics
+## Get summary statistics
 summary(elections)
-Loading the data in Python
-pythonimport pandas as pd
 
-# Load the data
-elections = pd.read_csv("dutch_caribbean_elections.csv")
-
-# View the first few rows
-print(elections.head())
-
-# Check the structure
-print(elections.info())
-
-# Get summary statistics
-print(elections.describe())
-Basic analysis examples
-Count elections by country:
-rtable(elections$country)
-Find the most successful party by votes in a specific year:
-rlibrary(dplyr)
-
-elections %>%
-  filter(year == 2024, country == "Aruba") %>%
-  arrange(desc(votes))
-Calculate vote shares:
-relections %>%
-  group_by(year, country) %>%
-  mutate(vote_share = votes / sum(votes) * 100) %>%
-  arrange(year, country, desc(vote_share))
 
 
 # Example scripts
